@@ -1,8 +1,9 @@
 import React from 'react'
+import Day10 from './Practice/Phase-1/Day10'
 
 const App = () => {
   return (
-    <div>App</div>
+    <Day10 />
   )
 }
 
